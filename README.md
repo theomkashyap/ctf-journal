@@ -1,45 +1,59 @@
 # CTF Journal
 
-Welcome to my CTF Journal.
+> A personal journal documenting my journey through Capture The Flag (CTF) challenges, one machine at a time.
 
-This repository is where I document my Capture The Flag (CTF) journey. It serves as a personal journal of the challenges I complete, the concepts I learn, and the skills I develop along the way.
+## About
 
-Instead of sharing walkthroughs or challenge solutions, I focus on recording my own learning experience, methodologies, and key takeaways from each challenge.
+This repository is where I document my CTF journey and everything I learn along the way.
 
-## What you'll find here
+Instead of sharing walkthroughs or challenge solutions, I focus on my thought process, the techniques I learned, the tools I practiced, the mistakes I made, and the lessons I took away from each challenge.
 
-- Challenge reflections
-- Enumeration notes
-- Tools and commands I practiced
-- Attack techniques and security concepts
-- Blue Team detection ideas
-- Personal lessons and improvements
-
-## Platform
-- Try Hack Me
-- Hack The Box
-
-## Repository Structure
-
-```text
-HackTheBox/
-├── Starting-Point/
-├── Easy/
-├── Medium/
-└── Hard/
-```
-
-## Goals
-
-- Improve practical cybersecurity skills
-- Build a consistent learning habit
-- Document my progress over time
-- Strengthen my understanding through hands-on practice
-
-## Note
-
-This repository contains only my personal learning notes and reflections. It does not include flags, passwords, or walkthroughs for active challenges.
+The goal is simple: **learn, reflect, improve, and keep building.**
 
 ---
 
-*"Every challenge is another step toward becoming a better cybersecurity professional."*
+## What You'll Find Here
+
+- Personal challenge reflections
+- Enumeration methodologies
+- Tools and commands I practiced
+- Attack techniques and security concepts
+- Blue Team detection ideas
+- Lessons learned from each challenge
+- Personal observations and improvements
+
+---
+
+## Platforms
+
+- Hack The Box
+- TryHackMe
+
+---
+
+## Goals
+
+- Build strong practical cybersecurity skills
+- Develop a consistent learning habit
+- Document my progress over time
+- Improve problem-solving and analytical thinking
+- Create a personal knowledge base for future reference
+
+---
+
+## Disclaimer
+
+This repository contains **only my personal learning notes and reflections**.
+
+It does **not** include:
+
+- Flags
+- Passwords
+- Complete walkthroughs
+- Solutions for active challenges
+
+Please respect the rules and policies of the respective CTF platforms.
+
+---
+
+> *"Every challenge teaches something new. The goal isn't just to solve it, but to understand it."*
