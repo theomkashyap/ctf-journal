@@ -56,4 +56,4 @@ Please respect the rules and policies of the respective CTF platforms.
 
 ---
 
-> *"Every challenge teaches something new. The goal isn't just to solve it, but to understand it.."*
+> *"Every challenge teaches something new. The goal isn't just to solve it, but to understand it."*
