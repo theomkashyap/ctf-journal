@@ -11,7 +11,7 @@ I started by exploring the web application and inspecting everything that was pu
 
 After gathering enough information, I gained access to the machine and began exploring the Linux environment. I navigated through different directories, searched for important files, and became more comfortable working entirely from the terminal. This room reinforced how valuable basic Linux knowledge can be during a penetration test.
 
-Along the way, I practiced using common Linux commands while exploring the system. Commands like **less** made reading files much easier, while **sudo** helped me understand how elevated privileges can be used when they are available. Although the room wasn't technically difficult, it showed me that simple commands and careful observation are often enough to solve a challenge.
+Along the way, I practiced using common Linux commands while exploring the system. Commands like less made reading files much easier, while sudo helped me understand how elevated privileges can be used when they are available. Although the room wasn't technically difficult, it showed me that simple commands and careful observation are often enough to solve a challenge.
 
 Compared to the previous rooms, Pickle Rick focused more on Linux fundamentals than complex exploitation techniques. It reminded me that understanding the target, following the available clues, and making the most of basic tools can often be more effective than searching for advanced exploits.
 
@@ -29,8 +29,8 @@ Compared to the previous rooms, Pickle Rick focused more on Linux fundamentals t
 - Enumeration should always come before exploitation.
 - Small clues collected during web enumeration can become valuable later in the assessment.
 - Linux navigation becomes much easier with consistent hands-on practice.
-- Commands like **less** make reading files more efficient during enumeration.
-- Understanding **sudo** permissions is an important part of Linux privilege escalation.
+- Commands like less make reading files more efficient during enumeration.
+- Understanding sudo permissions is an important part of Linux privilege escalation.
 - Strong Linux fundamentals are just as valuable as learning advanced exploitation techniques.
 
 ## Final Thoughts
