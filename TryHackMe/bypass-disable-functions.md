@@ -7,9 +7,9 @@
 
 After completing previous web exploitation rooms, I wanted to learn how PHP applications behave when dangerous execution functions are disabled. Bypass Disable Functions felt like an interesting challenge because it focused on understanding server configuration, restricted PHP environments, and how remote code execution can still be achieved under certain conditions.
 
-I started by scanning the target to identify the available services before exploring the web application. As I moved through the room, I spent time enumerating directories and gathering information about the server. One of the most valuable discoveries was an exposed **phpinfo()** page, which revealed important details about the PHP environment and helped me understand how the application was configured.
+I started by scanning the target to identify the available services before exploring the web application. As I moved through the room, I spent time enumerating directories and gathering information about the server. One of the most valuable discoveries was an exposed phpinfo() page, which revealed important details about the PHP environment and helped me understand how the application was configured.
 
-After understanding the server configuration, I learned how reverse shells can still be achieved even when common PHP execution functions are disabled. This room introduced me to **Chankro**, a tool designed to bypass PHP `disable_functions` restrictions in vulnerable environments. It was interesting to see how proper reconnaissance and understanding the server configuration played a much bigger role than simply looking for an exploit.
+After understanding the server configuration, I learned how reverse shells can still be achieved even when common PHP execution functions are disabled. This room introduced me to Chankro, a tool designed to bypass PHP disable_functions restrictions in vulnerable environments. It was interesting to see how proper reconnaissance and understanding the server configuration played a much bigger role than simply looking for an exploit.
 
 Once I established a shell, I explored the Linux environment, navigated the filesystem, and continued practicing basic post-exploitation techniques. More than anything, this room reinforced how important information gathering is before attempting exploitation.
 
