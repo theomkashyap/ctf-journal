@@ -7,7 +7,7 @@
 
 My first CTF ever. I went in solo, used no hints, and picked this room randomly just to get started.
 
-The room starts with a single image—a Windows XP wallpaper. My first instinct was to inspect its metadata using `exiftool` because images often contain more information than they appear to. That gave me a GPS location and an author name, which became my starting point.
+The room starts with a single image—a Windows XP wallpaper. My first instinct was to inspect its metadata using exiftool because images often contain more information than they appear to. That gave me a GPS location and an author name, which became my starting point.
 
 A quick Google search for the author led me to a GitHub profile, a Twitter account, and a personal WordPress website. From there, I followed each clue one by one until everything started coming together.
 
