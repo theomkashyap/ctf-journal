@@ -9,7 +9,7 @@ After completing several Linux-focused rooms, I wanted to try something that req
 
 I started by scanning the target to identify the available services before moving on to web enumeration. After exploring the application and its directories, I gained initial access to the machine and continued my investigation through the Linux terminal. Rather than immediately searching for privilege escalation techniques, I focused on understanding the system first.
 
-While enumerating the machine, I explored user files, configuration files, and command history. One of the most useful findings came from the user's `.bash_history`, which revealed database credentials and provided a better understanding of how the application was configured. Using those credentials, I connected to MySQL and gathered additional information that helped me progress further through the room.
+While enumerating the machine, I explored user files, configuration files, and command history. One of the most useful findings came from the user's .bash_history, which revealed database credentials and provided a better understanding of how the application was configured. Using those credentials, I connected to MySQL and gathered additional information that helped me progress further through the room.
 
 As I continued analyzing the application, I identified a Command Injection vulnerability caused by user-controlled input being passed directly into a shell command. Exploiting this vulnerability reinforced how dangerous improper input validation can be and how a small coding mistake can lead to full system compromise.
 
