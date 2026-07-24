@@ -42,7 +42,7 @@ Brute It focused on discovering hidden web resources, brute-forcing login creden
 3. Brute-forced login credentials using **Hydra**.
 4. Logged into the target via **SSH**.
 5. Cracked password hashes with **John the Ripper**.
-6. Enumerated sudo permissions and escalated privileges to **root.
+6. Enumerated sudo permissions and escalated privileges to root.
 
 ---
 
