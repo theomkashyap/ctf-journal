@@ -32,7 +32,7 @@ Compared to Dreaming, this room focused less on custom exploitation techniques a
 ## What I Learned
 
 - Enumeration should always come before exploitation.
-- HTTP headers like **User-Agent** can reveal hidden application functionality.
+- HTTP headers like User-Agent can reveal hidden application functionality.
 - Dictionary attacks become much more effective when valid usernames are available.
 - Image metadata and embedded files can expose valuable information.
 - zip2john and John the Ripper introduced me to cracking password-protected ZIP archives.
