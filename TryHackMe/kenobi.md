@@ -11,7 +11,7 @@ I started by scanning the target to identify the available services. The scan re
 
 After spending some time gathering information, I identified a vulnerable version of ProFTPD and researched publicly available exploits. Using the vulnerable mod_copy module, I copied the target user's private SSH key to an accessible location. By mounting the exposed NFS share, I recovered the private key and successfully gained SSH access to the system.
 
-Once I had access, I explored the Linux filesystem, searched for privilege escalation opportunities, and became more comfortable identifying insecure SUID binaries. Along the way, I also learned how tools like SMBClient, Searchsploit, and NFS can work together during a penetration test. Discovering a custom SUID binary and abusing the **PATH** environment variable to execute commands with root privileges was one of the biggest takeaways from this room.
+Once I had access, I explored the Linux filesystem, searched for privilege escalation opportunities, and became more comfortable identifying insecure SUID binaries. Along the way, I also learned how tools like SMBClient, Searchsploit, and NFS can work together during a penetration test. Discovering a custom SUID binary and abusing the PATH environment variable to execute commands with root privileges was one of the biggest takeaways from this room.
 
 Compared to Vulnversity, this room focused less on web exploitation and more on understanding how multiple network services can expose different pieces of information that eventually lead to complete system compromise. Every stage depended on careful enumeration, and it reinforced the idea that connecting small discoveries is often more valuable than relying on a single exploit.
 
